@@ -11,5 +11,5 @@ In first terminal run the react app with below command npm install This command 
 
 npm run devStart Runs the app in the development mode. Open http://localhost:3002 to view it in your browser.
 
-'''Note'''
+# Note
 The files are pushed into master branch
