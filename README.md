@@ -1,3 +1,8 @@
+# note
+Please check out master branch 
+
+
+
 # flash_cards
 Title- FlashCards App Implementing a todo userinterface where one can manage their tasks for better productivity
 
