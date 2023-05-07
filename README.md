@@ -9,7 +9,7 @@ Add a new flashcard : A new flashcard can be added with specifications such as q
 
 In first terminal run the react app with below command npm install This command installs a package and any packages that it depends on
 
-npm run devStart Runs the app in the development mode. Open http://localhost:3002 to view it in your browser.
+first to run the application move to server file location by using the command "cd server" and use "npm run devStart" command to start the server and then move to client file location by using the command "cd client" and use "npm start" command to start the application in the browser
 
 # Note
 The files are pushed into master branch
